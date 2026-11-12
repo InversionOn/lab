@@ -36,12 +36,6 @@ A Supportive Tribe — поддерживающее спортивное соо�
 
 Dynamic Open Gym — пространство для силовых и функциональных тренировок.
 
-Контактная информация
-
-Email: hello@figma.com
-
-Телефон: (203) 555-5555
-
 График работы
 
 День
@@ -63,8 +57,3 @@ Email: hello@figma.com
 Праздничные дни
 
 08:00–16:00
-
-
-Сайт: https://appeal-rice-stuff.figma.site/
-
-PrimalTraining — Train Hard. Live Better.
